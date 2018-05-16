@@ -1,2 +1,2 @@
 # Jamming
-Codeacademy Jamming React Project
+Feature Request for CodeAcademy project.
